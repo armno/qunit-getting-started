@@ -1,0 +1,9 @@
+{
+  "name": "qunit-getting-started",
+  "dependencies": {
+    "wiredep": "^2.2.2"
+  },
+  "devDependencies": {
+    "http-server": "^0.7.4"
+  }
+}

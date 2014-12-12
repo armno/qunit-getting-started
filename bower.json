@@ -1,0 +1,9 @@
+{
+  "name": "qunit-getting-started",
+  "dependencies": {
+    "jquery": "~2.1.1"
+  },
+  "devDependencies": {
+    "qunit": "~1.16.0"
+  }
+}
