@@ -62,4 +62,4 @@ add these 2 `<div>`s in `<body>` tag.
 
 reload the page. qunit results should show up.
 
-![qunit page](screeshots/01.png)
+![qunit page](screenshots/01.png)
