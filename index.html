@@ -14,5 +14,14 @@
 	<script src="bower_components/jquery/dist/jquery.js"></script>
 	<script src="bower_components/qunit/qunit/qunit.js"></script>
 	<!-- endbower -->
+
+	<script>
+	(function() {
+		QUnit.test('HelloWorld example', function(assert) {
+			var message = 'HelloWorld';
+			assert.equal(message, 'HelloWorld', 'Expect message should be HelloWorld');
+		});
+	})();
+	</script>
 </body>
 </html>
